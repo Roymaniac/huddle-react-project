@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-!["Desktop Design Image"](./design/desktop-design.jpg)
+![" "](/public/design/active-states.jpg)
 
-!["Mobile Design Image"](./design/mobile-design.jpg)
+![" "](/public/design/desktop-preview.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://gilded-hotteok-9f1e0d.netlify.app)
 
 ## My process
 
@@ -35,5 +35,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github - [Roymaniac](https://www.github.com/Roymaniac)
 - Twitter - [@awele_roy](https://www.twitter.com/aweleroy)

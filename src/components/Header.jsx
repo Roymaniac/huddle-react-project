@@ -1,9 +1,9 @@
-import { Button } from "./styled/Button.styled";
 import { Container } from "./styled/Container.styled";
 import { Image, Logo, Nav, StyledHeader } from "./styled/Header.styled";
 import logo from "../logo.svg";
 import svg from "../illustration-mockups.svg";
 import { Flex } from "./styled/Flex.styled";
+import { Button } from "./styled/Button.styled";
 import SocialIcon from "./SocialIcon";
 
 export default function Header() {

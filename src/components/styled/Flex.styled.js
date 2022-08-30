@@ -9,14 +9,21 @@ export const Flex = styled.div`
   & > ul {
     flex: 1;
   }
+  & > p {
+    font-family: "Poppins", sans-serif;
+  }
 
   & > div {
-    margin: 0 20px;
+    margin: 0 25px;
   }
 
   @media (max-width: ${({ theme }) => theme.mobile}) {
     flex-direction: column;
     text-align: center;
+
+    & > div {
+      margin: 0 10px;
+    }
 
     & > div & > p {
       margin: 0 10px;

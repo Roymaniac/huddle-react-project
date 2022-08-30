@@ -3,16 +3,14 @@ import bg_desktop from "../../bg-desktop.svg";
 import bg_mobile from "../../bg-mobile.svg";
 
 export const StyledHeader = styled.header`
-  @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
-
   background-image: url(${bg_desktop});
   background-repeat: no-repeat;
-  background-position: -55px center;
+  background-position: 40px center;
   width: 100%;
-  height: 100vh;
+  height: 99.9vh;
   background-size: contain;
   padding: 40px 0;
-  font-family: "Poppins" sans-serif;
+  font-family: "Open Sans" sans-serif;
   font-weight: 400;
 
   @media (max-width: ${({ theme }) => theme.mobile}) {
